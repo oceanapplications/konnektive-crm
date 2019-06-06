@@ -26,7 +26,7 @@ use Konnektive\Request\Request;
  */
 class ImportClickRequest extends Request
 {
-    protected $endpointUri = "/landers/clicks/import";
+    protected $endpointUri = "/landers/clicks/import/";
 
     protected $rules = [
         'loginId' => 'required|max:32',
