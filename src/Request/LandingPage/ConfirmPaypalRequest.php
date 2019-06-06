@@ -7,7 +7,7 @@ use Konnektive\Request\Request;
 
 /**
  * Class ImportClickRequest
- * @link https://api2.konnektive.com/docs/click_import/
+ * @link https://api.konnektive.com/docs/confirm_paypal/
  * @package Konnektive\Request\LandingPage
  *
  * @property string $loginId Api Login Id provided by Konnektive
